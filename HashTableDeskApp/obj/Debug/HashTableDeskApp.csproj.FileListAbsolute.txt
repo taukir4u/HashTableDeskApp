@@ -1,0 +1,8 @@
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\bin\Debug\HashTableDeskApp.exe.config
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\bin\Debug\HashTableDeskApp.exe
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\bin\Debug\HashTableDeskApp.pdb
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\obj\Debug\HashTableDeskApp.Properties.Resources.resources
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\obj\Debug\HashTableDeskApp.csproj.GenerateResource.Cache
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\obj\Debug\HashTableDeskApp.exe
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\obj\Debug\HashTableDeskApp.pdb
+H:\Taukir\HashTableDeskApp\HashTableDeskApp\obj\Debug\HashTableDeskApp.BookInfoUI.resources
